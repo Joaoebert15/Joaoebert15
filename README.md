@@ -26,7 +26,8 @@
 <img align="center" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="">
 <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="">
 <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="">
-
+ 
+ <img align="center" src="https://img.shields.io/github/languages/top/Joaoebert15/Joaoebert15">
 
 
 
