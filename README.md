@@ -1,5 +1,8 @@
 ### Olá sou o Joao Ebert!!
 
+Linguagem mais usada: 
+ <img align="center" src="https://img.shields.io/github/languages/top/Joaoebert15/portifolio?label=Javascript&style=for-the-badge">
+
 
 <div style="display: inline-block;">
 <p>Me siga nas redes socias:</p>
@@ -27,8 +30,6 @@
 <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="">
 <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="">
  
- <img align="center" src="https://img.shields.io/github/languages/top/Joaoebert15/Joaoebert15">
-
 
 
 </div>
