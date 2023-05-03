@@ -21,7 +21,7 @@ Linguagem mais usada:
  
  <br/>
  
- <p> Oque quero aprender no futuro? <p/>
+ <p margin="1rem"> Oque quero aprender no futuro? <p/>
  
 <img align="center" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="" srcset="">
 <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="">
@@ -32,7 +32,4 @@ Linguagem mais usada:
 
 
 </div>
-<style>
-p{
- margin: 0.6rem;
-</style>
+
