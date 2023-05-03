@@ -32,3 +32,7 @@ Linguagem mais usada:
 
 
 </div>
+<style>
+p{
+ margin: 0.6rem;
+</style>
