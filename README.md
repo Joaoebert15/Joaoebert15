@@ -15,9 +15,9 @@
 <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="">
 <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="" srcset="">
  
- <br/>
+ <br>
  
- <p margin="1rem"> Oque quero aprender no futuro? <p/>
+ <h3 margin="1rem"> Oque quero aprender no futuro? <h3/>
  
 <img align="center" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="" srcset="">
 <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="">
