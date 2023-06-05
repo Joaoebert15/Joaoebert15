@@ -1,9 +1,5 @@
 ### Olá sou o Joao Ebert!!
 
-Linguagem mais usada: 
- <img align="center" src="https://img.shields.io/github/languages/top/Joaoebert15/portifolio?label=Javascript&style=for-the-badge">
-
-
 <div style="display: inline-block;">
  <h3><strong>Me siga nas redes socias:</strong></h3>
 <a href="https://www.instagram.com/ebertzz/"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a>
